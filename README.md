@@ -1,2 +1,25 @@
-# EDX-homework05
-EDX-homework05 / Module 05: Third-Party-API's - Challenge
+# Work Day Scheduler
+
+## Description
+GIVEN I am using a daily planner to create a schedule
+WHEN I open the planner
+THEN the current day is displayed at the top of the calendar
+WHEN I scroll down
+THEN I am presented with time blocks for standard business hours
+WHEN I view the time blocks for that day
+THEN each time block is color-coded to indicate whether it is in the past, present, or future
+WHEN I click into a time block
+THEN I can enter an event
+WHEN I click the save button for that time block
+THEN the text for that event is saved in local storage
+WHEN I refresh the page
+THEN the saved events persist
+
+## Mock Up
+<img src="./assets/images/05-third-party-apis-homework-demo.gif" alt="Mock Up of Work Day Scheduler"/>
+
+## Screenshots
+<img src="./assets/images/?????????????.png" alt="?????????????"/>
+
+## Links
+[Application Link - Open in a new tab](https://jpascual007.github.io/EDX-homework05/)
