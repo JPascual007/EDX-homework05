@@ -19,7 +19,7 @@ THEN the saved events persist
 <img src="./assets/images/05-third-party-apis-homework-demo.gif" alt="Mock Up of Work Day Scheduler"/>
 
 ## Screenshots
-<img src="./assets/images/?????????????.png" alt="?????????????"/>
+<img src="./assets/images/Work Day Scheduler ScreenShot.png" alt="Screenshot of a functional scheduler for planning"/>
 
 ## Links
 [Application Link - Open in a new tab](https://jpascual007.github.io/EDX-homework05/)
